@@ -1,0 +1,147 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "company": "marcos",
+    "rating": 4,
+    "featured" : false
+  },
+  {
+    "name": "albany sectional",
+    "price": 109,
+    "company": "liddy",
+    "rating": 5,
+    "featured" : false
+  },
+  {
+    "name": "albany table",
+    "price": 309,
+    "company": "liddy",
+    "rating": 4.9,
+    "featured" : false
+  },
+  {
+    "name": "armchair",
+    "price": 125,
+    "company": "marcos",
+    "rating": 4.8,
+    "featured" : false
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "company": "liddy",
+    "rating": 4.6,
+    "featured" : false
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "company": "ikea",
+    "rating": 4.55,
+    "featured" : false
+  },
+  {
+    "name": "emperor bed",
+    "price": 23,
+    "company": "ikea",
+    "featured" : false
+  },
+  {
+    "name": "entertainment center",
+    "price": 59,
+    "featured": true,
+    "company": "caressa"
+  },
+  {
+    "name": "high-back bench",
+    "price": 39,
+    "featured": true,
+    "company": "ikea"
+  },
+
+  {
+    "name": "leather sofa",
+    "price": 99,
+    "company": "caressa",
+    "featured" : false
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "featured": true,
+    "company": "caressa"
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "company": "liddy",
+    "featured" : false
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "company": "ikea",
+    "featured" : false
+  },
+  {
+    "name": "simple chair",
+    "price": 109,
+    "company": "liddy",
+    "featured" : false
+  },
+  {
+    "name": "sofa set",
+    "price": 129,
+    "company": "marcos",
+    "featured" : false
+  },
+  {
+    "name": "suede armchair",
+    "price": 15,
+    "company": "caressa",
+    "featured" : false
+  },
+  {
+    "name": "utopia sofa",
+    "price": 79,
+    "featured": true,
+    "company": "liddy"
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "featured": true,
+    "company": "marcos"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "ikea",
+    "featured" : false
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "company": "ikea",
+    "featured" : false
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "company": "ikea",
+    "featured" : false
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "caressa"
+  },
+  {
+    "name": "a first wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "caressa"
+  }
+]
